@@ -2,7 +2,7 @@
 
 Caixa de joias de madeira (MDF) com **3 portas controladas por servos**, **um único botão** e um **display colorido** que mostra o menu e o estado de cada porta. Este repositório traz a **versão provisória sem RFID**, ideal para validar display, servos e lógica do botão antes de integrar o leitor de tags.
 
-![Infográfico do projeto](docs/infografico.png)
+![Infográfico do projeto](docs/infografico.png.png)
 
 
 ## 💡 Motivação
