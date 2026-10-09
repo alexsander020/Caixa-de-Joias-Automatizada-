@@ -127,3 +127,7 @@ Defina a licença do projeto (por exemplo, MIT) adicionando um arquivo `LICENSE`
 ## 👤 Autor
 
 **Alexsander Sudario Abreu** — [github.com/alexsander020](https://github.com/alexsander020)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-sudario-0a793524a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/alexsander020)
+
