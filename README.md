@@ -4,6 +4,7 @@ Caixa de joias de madeira (MDF) com **3 portas controladas por servos**, **um ú
 
 ![Infográfico do projeto](docs/Infográfico Técnico do Painel Arduino sem RFID.png)
 
+
 ## 💡 Motivação
 
 Este projeto nasceu de uma situação do dia a dia: minha namorada, Daniely, ficava incomodada com pessoas mexendo nas coisas dela. A partir dessa insatisfação surgiu a ideia de criar uma caixa de joias que mantém tudo guardado e só abre quando ela decide, com controle individual de cada porta e fechamento automático.
